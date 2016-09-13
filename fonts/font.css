@@ -1,0 +1,34 @@
+@font-face {
+    font-family: 'Bebas';
+    src: url('BebasNeue.otf');
+}
+
+@font-face {
+    font-family: 'Coco';
+    src: url('Coco.ttf');
+}
+
+@font-face {
+    font-family: 'Chmp';
+    src: url('Chmp.ttf');
+}
+
+@font-face {
+    font-family: 'Chmp_Bold';
+    src: url('Chmp_Bold.ttf');
+}
+
+@font-face {
+    font-family: 'Lato';
+    src: url('Lto.ttf');
+}
+
+@font-face {
+    font-family: 'Roboto';
+    src: url('Roboto-Light.ttf');
+}
+
+@font-face {
+    font-family: 'Roboto-Thin';
+    src: url('Roboto-Thin.ttf');
+}
