@@ -3,9 +3,9 @@ body {
 	background-repeat: no-repeat;
 	background-size: cover;
 	background-position: top center;
-	-webkit-user-select: none; /* Chrome/Safari */
-	-moz-user-select: none; /* Firefox */
-	-ms-user-select: none; /* IE10+ */
+	-webkit-user-select: text; /* Chrome/Safari */
+	-moz-user-select: text; /* Firefox */
+	-ms-user-select: text; /* IE10+ */
 	font-family: 'Chmp',sans-serif;
 	z-index: -1;
 	padding-top: 0.5em;
